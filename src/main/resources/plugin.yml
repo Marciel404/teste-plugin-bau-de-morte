@@ -1,0 +1,4 @@
+name: PLDEFDP
+version: '${project.version}'
+main: com.github.marciel404.pldefdp.PLDEFDP
+api-version: 1.16
